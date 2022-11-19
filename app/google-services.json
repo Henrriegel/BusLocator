@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300095057962",
+    "project_id": "qro-bus",
+    "storage_bucket": "qro-bus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300095057962:android:ecdddcc78d97418ac0d353",
+        "android_client_info": {
+          "package_name": "com.example.buslocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300095057962-cs2fp9if9u9ng5nua76e2kpkd15ju3r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK5REkGtm7wdIaQ90BzgKVEmSAQlR3pNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300095057962-cs2fp9if9u9ng5nua76e2kpkd15ju3r9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
