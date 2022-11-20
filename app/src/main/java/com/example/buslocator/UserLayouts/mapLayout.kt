@@ -13,6 +13,10 @@ import kotlinx.coroutines.launch
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
+enum class ProviderType{
+    BASIC
+}
+
 class mapLayout : AppCompatActivity(), OnMapReadyCallback {
 
     private lateinit var map: GoogleMap
